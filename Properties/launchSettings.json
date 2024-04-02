@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Vert-Interview-Project": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Vetex_Base_Url": "http://magazinestore.azurewebsites.net/"
+      }
+    }
+  }
+}
